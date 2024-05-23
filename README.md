@@ -1,4 +1,4 @@
-# Manual de Usuario para la Aplicación de Gestión de Consultorio Dental
+# Manual de Usuario para la Aplicación de Gestión de Consultorio Dental "SweetTooth"
 
 ## Características Principales del Sistema
 
